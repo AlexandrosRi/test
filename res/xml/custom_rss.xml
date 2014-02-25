@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    
+	<Preference
+    android:key="pref_static_field_key"
+    android:selectable="false"
+    android:summary="Application must be restarted for changes to take place"/>
+	
+    <PreferenceCategory android:title="Custom RSS 1" >
+        <EditTextPreference
+                android:title="Name"
+                android:key="rssName1"/>
+        <EditTextPreference
+                android:title="Link"
+                android:key="rssLink1"/>
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="Custom RSS 2" >
+        <EditTextPreference
+                android:title="Name"
+                android:key="rssName2"/>
+        <EditTextPreference
+                android:title="Link"
+                android:key="rssLink2"/>
+    </PreferenceCategory>
+    
+    <PreferenceCategory android:title="Custom RSS 3" >
+        <EditTextPreference
+                android:title="Name"
+                android:key="rssName3"
+                />
+        <EditTextPreference
+                android:title="Link"
+                android:key="rssLink3"/>
+    </PreferenceCategory>
+           
+</PreferenceScreen>

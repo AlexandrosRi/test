@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DmstAnnouncements</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome">Welcome!</string>
+    <string name="stdbutton1">myDmst</string>
+    <string name="stdbutton2">DmstNews</string>
+    <string name="stdbutton3">DmstEvents</string>
+    <string name="cstbutton1">TBI</string>
+    <string name="cstbutton2">TBI</string>
+    <string name="cstbutton3">TBI</string>
+    <string name="configbutton">Settings</string>
+    <string name="newRss">New Rss</string>
+
+</resources>
